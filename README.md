@@ -30,7 +30,7 @@
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=dracula&bg_color=0d1117&username=BuivaTS-qa)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=dracula&bg_color=0d1117&hide_title=true&username=BuivaTS-qa)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
