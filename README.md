@@ -20,8 +20,8 @@
 
 Ценю честность и открытость — когда проблемы решают вместе, а не перекидывают ответственность. <br>
 
-- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [b-tanya-t@yandex.ru](mailto:b-tanya-t@yandex.ru)
-- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_telegram.png"/> [@TanyaBuiva](https://t.me/TanyaBuiva)
+- <img height="20" width="20" src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/icon_mail.png"/> [b-tanya-t@yandex.ru](mailto:b-tanya-t@yandex.ru)
+- <img height="20" width="20" src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/icon_telegram.png"/> [@TanyaBuiva](https://t.me/TanyaBuiva)
 
 ## 📊 Статистика
 
@@ -101,7 +101,6 @@
 </table>
 
 ### Работа с базами данных
-
 <table class="table" border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://cdn.worldvectorlogo.com/logos/metabase.svg" /></td>
@@ -137,7 +136,20 @@
   </tr>
 </table>
 
-
+### Тестовая документация
+<table class="table" border="0" width="100%">
+  <tr align="center">
+    <td><img width="48" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" /></td>
+    <td><img width="48" src="https://docs.testit.software/images/testit_logo_icon_blue.png" /></td>
+    <td><img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" /></td>
+    <td><img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" /></td>
+    <td><img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" /></td>
+  </tr>
+  <tr align="center">
+    <td>Yandex Tracker</td>
+    <td>Test It</td>
+  </tr>
+</table>
 
 <br>
 
