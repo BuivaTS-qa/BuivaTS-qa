@@ -1,6 +1,6 @@
 ## 
 
-<img align="right" height="370" src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/cat_5.jpg" />
+<img align="right" height="300" src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/cat_5.jpg" />
 
 Привет👋! <br>
 
