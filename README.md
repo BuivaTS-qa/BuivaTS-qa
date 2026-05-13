@@ -2,23 +2,25 @@
 
 <img align="right" height="300" src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/cat_5.jpg" />
 
-Привет👋! <br>
+Привет👋! Я QA Engineer<br>
 
-✔️ Как я работаю:<br>
+✔️ Мои принципы тестирования:<br>
 
-Тестирую вручную, но всегда думаю о том, как автоматизировать рутину (Python, Cypress + учу то, что нужно проекту).<br>
+Shift-left testing.<br>
 
-Знаю весь цикл разработки и понимаю, где чаще всего возникают ошибки — чтобы ловить их до релиза.<br>
+Prioritising.<br>
 
-Пишу документацию просто и понятно — чтобы вся команда экономила время.<br>
+Simplification.<br>
 
-✔️ Что для меня важно в работе:<br>
+Test case automation.<br>
 
-Хочу, чтобы тестирование было не формальностью, а частью разработки.<br>
+✔️ Для меня важно в работе:<br>
 
-Ищу место, где можно расти: от ручного тестирования к автоматизации.<br>
+Тестирование — полноценная часть разработки.<br>
 
-Ценю честность и открытость — когда проблемы решают вместе, а не перекидывают ответственность. <br>
+Поощрение роста от ручного тестирования к автоматизации.<br>
+
+Честность и открытость в команде.<br>
 
 - <img height="20" width="20" src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/icon_mail.png"/> [b-tanya-t@yandex.ru](mailto:b-tanya-t@yandex.ru)
 - <img height="20" width="20" src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/icon_telegram.png"/> [@TanyaBuiva](https://t.me/TanyaBuiva)
