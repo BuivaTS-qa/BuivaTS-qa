@@ -2,7 +2,7 @@
 
 <img align="right" height="370" src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/cat_5.jpg" />
 
-Привет👋! Я QA Engineer<br>
+Привет! Я QA Engineer<br>
 
 ✔️ Мои принципы тестирования:<br>
 
@@ -154,13 +154,13 @@ Test case automation.<br>
 
 <br>
 
-## 🪴 Практика и стажировка
-[<img src="" width="280px" hspace="10px" alt="Сертификат Чат Net»">](//raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/chat_net.png)
-[<img src="" width="280px" hspace="5px" alt="Сертификат Битва_покемонов»">]()
-[<img src="" width="280px" hspace="10px" alt="Сертификат от степика»">]()
+## Практика и стажировка
+[img src="" width="280px" hspace="10px" alt="Сертификат Чат Net»">](//raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/chat_net.png)
+[img src="" width="280px" hspace="5px" alt="Сертификат Битва_покемонов»">]()
+[img src="" width="280px" hspace="10px" alt="Сертификат от степика»">]()
 
 <br>
 
-## 🎒 Образование
-[<img src="/qustudioru.png" width="280px" hspace="10px" alt="Диплом»">]()
-[<img src="/jun.png" width="280px" hspace="10px" alt="Диплом»">]()
+## Образование
+[img src="/qustudioru.png" width="280px" hspace="10px" alt="Диплом»">]()
+[img src="/jun.png" width="280px" hspace="10px" alt="Диплом»">]()
