@@ -106,7 +106,7 @@
     <td><img width="48" src="https://cdn.worldvectorlogo.com/logos/metabase.svg" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/147ed780957fe9e13878a49dae1836ca332d6de3/assets/logo_mysql.png" /></td>
     <td><img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" /></td>
-    <td><img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_dbeaver.png" /></td>
     <td><img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" /></td>
   </tr>
   <tr align="center">
