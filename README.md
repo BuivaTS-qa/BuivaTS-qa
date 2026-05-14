@@ -12,7 +12,7 @@ Prioritising.<br>
 
 Simplification.<br>
 
-Test case automation.<br>
+Automation testing.<br>
 
 ✔️ Для меня важно в работе:<br>
 
