@@ -158,6 +158,7 @@ Automation testing.<br>
 <!-- [img src="" width="280px" hspace="10px" alt="Сертификат Чат Net»">](//raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/chat_net.png)
 [img src="" width="280px" hspace="5px" alt="Сертификат Битва_покемонов»">]()
 [img src="" width="280px" hspace="10px" alt="Сертификат от степика»">]()--> 
+<img align="right" height="370" src="https:.jpg" />
 
 <br>
 
