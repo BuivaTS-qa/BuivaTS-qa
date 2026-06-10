@@ -177,7 +177,7 @@ Automation testing.<br>
     <td><img src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/Cert_Full.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса"/></td>
   </tr>
   <tr align="center">
-    <td>Сертификат о прохождении курса</td>
+    <td>Сертификат о прохождении курса Инженер по тестированию</td>
   </tr>
 </table>
 
