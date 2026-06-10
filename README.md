@@ -27,7 +27,7 @@ Automation testing.<br>
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?hide_progress=true&bg_color=&0d1117&layout=pie&langs_count=6&show=reviews&hide_progress=true&username=BuivaTS-qa)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?hide_progress=true&bg_color=&0d1117&layout=pie&langs_count=6&show=reviews&hide_progress=true&username=BuivaTS-qa) --> 
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
