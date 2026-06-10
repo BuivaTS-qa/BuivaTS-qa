@@ -158,7 +158,6 @@ Automation testing.<br>
 <!-- [img src="" width="280px" hspace="10px" alt="Сертификат Чат Net»">](//raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/chat_net.png)
 [img src="" width="280px" hspace="5px" alt="Сертификат Битва_покемонов»">]()
 [img src="" width="280px" hspace="10px" alt="Сертификат от степика»">]()--> 
-<img src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/Cert_Full.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса"/>
 <img src="https://github.com/BuivaTS-qa/BuivaTS-qa/blob/main/1-Cert_Hiiire_2026.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажировки в компании Hiiire"/>
 
 <br>
@@ -166,3 +165,4 @@ Automation testing.<br>
 ## Образование
 <!-- [img src="/qustudioru.png" width="280px" hspace="10px" alt="Диплом»">]()
 [img src="/jun.png" width="280px" hspace="10px" alt="Диплом»">]()--> 
+<img src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/Cert_Full.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса"/>
