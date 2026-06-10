@@ -172,4 +172,13 @@ Automation testing.<br>
 ## Образование
 <!-- [img src="/qustudioru.png" width="280px" hspace="10px" alt="Диплом»">]()
 [img src="/jun.png" width="280px" hspace="10px" alt="Диплом»">]()--> 
-<img src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/Cert_Full.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса"/>
+<table class="table" border="0" width="100%">
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/Cert_Full.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса"/></td>
+  </tr>
+  <tr align="center">
+    <td>Сертификат о прохождении стажировки в компании Hiiire</td>
+  </tr>
+</table>
+
+<br>
