@@ -147,7 +147,7 @@ Automation testing.<br>
   </tr>
   <tr align="center">
     <td>Yandex Tracker</td>
-    <td>Test It</td>
+    <td>Test IT</td>
     <td>Miro</td>
   </tr>
 </table>
