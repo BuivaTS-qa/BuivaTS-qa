@@ -160,7 +160,7 @@ Automation testing.<br>
 [img src="" width="280px" hspace="10px" alt="Сертификат от степика»">]()--> 
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img src="https://github.com/BuivaTS-qa/BuivaTS-qa/blob/main/1-Cert_Hiiire_2026.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажировки в компании Hiiire"/></td>
+    <td><img src="https://github.com/BuivaTS-qa/BuivaTS-qa/blob/main/1-Cert_Hiiire_2026.png" width="500px" hspace="10px" alt="Сертификат о прохождении стажировки в компании Hiiire"/></td>
     <td><img src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/1-Cert_iSpring.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении интенсива в компании iSpring"/></td>
   </tr>
   <tr align="center">
@@ -176,7 +176,7 @@ Automation testing.<br>
 [img src="/jun.png" width="280px" hspace="10px" alt="Диплом»">]()--> 
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/Diploma_QA.jpg" width="500px" hspace="10px" alt="Диплом о профессиональной переподготовке"/></td>
+    <td><img src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/Diploma_QA.jpg" width="600px" hspace="10px" alt="Диплом о профессиональной переподготовке"/></td>
   </tr>
   <tr align="center">
     <td>Диплом о профессиональной переподготовке по программе Курс QA Studio Инженер по тестированию</td>
