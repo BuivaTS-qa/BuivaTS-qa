@@ -165,6 +165,12 @@ Automation testing.<br>
   <tr align="center">
     <td>Сертификат о прохождении стажировки в компании Hiiire</td>
   </tr>
+    <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/1-Cert_iSpring.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении интенсива в компании iSpring"/></td>
+  </tr>
+  <tr align="center">
+    <td>Сертификат о прохождении интенсива в компании iSpring</td>
+  </tr>
 </table>
 
 <br>
