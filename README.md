@@ -176,10 +176,10 @@ Automation testing.<br>
 [img src="/jun.png" width="280px" hspace="10px" alt="Диплом»">]()--> 
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/Cert_Full.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса"/></td>
+    <td><img src="https://raw.githubusercontent.com/BuivaTS-qa/BuivaTS-qa/refs/heads/main/Diploma_QA.jpg" width="280px" hspace="10px" alt="Диплом о профессиональной переподготовке"/></td>
   </tr>
   <tr align="center">
-    <td>Сертификат о прохождении курса Инженер по тестированию</td>
+    <td>Диплом о профессиональной переподготовке по программе Курс QA Studio Инженер по тестированию</td>
   </tr>
 </table>
 
